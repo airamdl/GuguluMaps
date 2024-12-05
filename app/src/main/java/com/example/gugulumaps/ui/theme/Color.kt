@@ -16,6 +16,6 @@ val MarkerPark = Color(0xFF82cf29)
 val MarkerHotel = Color(0xFFd1800f)
 val MarkerBeach = Color(0xFF3c9fe6)
 val MarkerParking = Color(0xFF24151c)
-
+val Marker = Color(0xFFc4415d)
 
 
