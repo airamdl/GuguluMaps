@@ -13,3 +13,9 @@ val Pink40 = Color(0xFF7D5260)
 val MarkerFuel = Color(0xFFdb4a40)
 val MarkerRestaurant = Color(0xFFc6cf29)
 val MarkerPark = Color(0xFF82cf29)
+val MarkerHotel = Color(0xFFd1800f)
+val MarkerBeach = Color(0xFF3c9fe6)
+val MarkerParking = Color(0xFF24151c)
+
+
+
