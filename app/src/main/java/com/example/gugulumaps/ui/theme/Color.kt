@@ -9,3 +9,7 @@ val Pink80 = Color(0xFFEFB8C8)
 val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
+
+val MarkerFuel = Color(0xFFdb4a40)
+val MarkerRestaurant = Color(0xFFc6cf29)
+val MarkerPark = Color(0xFF82cf29)
